@@ -1,0 +1,19 @@
+/Library/Java/JavaVirtualMachines/jdk-17.0.2.jdk/Contents/Home/bin/java -javaagent:/Users/vaibhavjain/Library/Application Support/JetBrains/Toolbox/apps/IDEA-U/ch-0/213.6777.52/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=54832:/Users/vaibhavjain/Library/Application Support/JetBrains/Toolbox/apps/IDEA-U/ch-0/213.6777.52/IntelliJ IDEA.app/Contents/bin -Dfile.encoding=UTF-8 -classpath /Users/vaibhavjain/IdeaProjects/CSC130Assignment2/out/production/CSC130Assignment2 main
+ +--+
+  +--5
+  +--/
+   +--7
+   +--2
+8.5
+
+Process finished with exit code 0
+
+/Library/Java/JavaVirtualMachines/jdk-17.0.2.jdk/Contents/Home/bin/java -javaagent:/Users/vaibhavjain/Library/Application Support/JetBrains/Toolbox/apps/IDEA-U/ch-0/213.6777.52/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=54860:/Users/vaibhavjain/Library/Application Support/JetBrains/Toolbox/apps/IDEA-U/ch-0/213.6777.52/IntelliJ IDEA.app/Contents/bin -Dfile.encoding=UTF-8 -classpath /Users/vaibhavjain/IdeaProjects/CSC130Assignment2/out/production/CSC130Assignment2 main
+ +--/
+  +--5
+  +--/
+   +--7
+   +--2
+1.4285714285714286
+
+Process finished with exit code 0
